@@ -1,4 +1,5 @@
 # Split-Mech-Keyboard-EXFO58
+![image](https://github.com/taljack/Split-Mech-Keyboard-EXFO58/blob/fec3b6fe41ca79d3e8ec822b9456529dc107f564/kbd.jpg)
 Custom RP2040 Split Keyboard (KMK Firmware)
 
 This repository/folder contains the KMK (CircuitPython) firmware for a hand-wired, custom split mechanical keyboard powered by dual RP2040 microcontrollers.
