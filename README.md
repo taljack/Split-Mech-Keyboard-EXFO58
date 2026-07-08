@@ -12,6 +12,7 @@ RGB: 29 WS2812 (NeoPixel) LEDs per half
 
 Split Communication: Single-wire UART over TRRS cable
 
+![image](https://github.com/taljack/Split-Mech-Keyboard-EXFO58/blob/943ddf6567a21251062ceee2df21902cd5e3655d/brave_screenshot_config.qmk.fm%20(4).png)
 📍 Pinout & Wiring Guide
 RP2040 Pin config :
 Rows:
@@ -59,11 +60,11 @@ Default Boot: Boots into a pure white static color (sat_default=0).
 🗺️ Keymap & Layers
 
 The keyboard features a standard QWERTY layout with an ergonomic LCTL position and 3 layers.
-
+![image](https://github.com/taljack/Split-Mech-Keyboard-EXFO58/blob/943ddf6567a21251062ceee2df21902cd5e3655d/layer0.png)
 Layer 0 (Base): Standard typing layer.
-
+![image](https://github.com/taljack/Split-Mech-Keyboard-EXFO58/blob/943ddf6567a21251062ceee2df21902cd5e3655d/layer1.png)
 Layer 1 (Momentary - MO): Accessed by holding the left thumb key. Contains Function keys (F1-F12), Symbols, and RGB adjustment controls on the right half.
-
+![image](https://github.com/taljack/Split-Mech-Keyboard-EXFO58/blob/943ddf6567a21251062ceee2df21902cd5e3655d/layer2.png)
 Layer 2 (Toggle - TG): Toggled on/off via the right thumb key. Contains Navigation, Numpad symbols, and specific RGB Animation mode selections.
 
 🌈 RGB Control Deck (Right Half)
