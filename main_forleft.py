@@ -9,7 +9,7 @@ from kmk.extensions.RGB import RGB, AnimationModes
 
 keyboard = KMKKeyboard()
 keyboard.modules.append(Layers())
-is_right_half = True
+is_right_half = False
 
 # ==========================================
 # 🌈 RGB MATRIX CONFIGURATION (For 2D Ripple Effects)
